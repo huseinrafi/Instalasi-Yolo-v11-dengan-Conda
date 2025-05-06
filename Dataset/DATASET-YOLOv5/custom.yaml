@@ -1,0 +1,6 @@
+train: D:/Code/RISET AI/DATASET-YOLOv5-BARU-FIX/train
+val: D:/Code/RISET AI/DATASET-YOLOv5-BARU-FIX/val
+
+nc: 1
+
+names: ["ball"]
