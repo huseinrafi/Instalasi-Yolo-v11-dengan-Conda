@@ -1,4 +1,4 @@
-# 🦾 YOLOv5 Custom Object Detection
+# 🦾 YOLOv8 Custom Object Detection
 
 Tutorial ini menunjukkan cara melakukan pelatihan (training) model YOLOv8 untuk mendeteksi objek dari dataset custom. perlu diingat untuk sudah menginstall Python, YOLO dan pytorch
 
