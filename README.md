@@ -72,16 +72,6 @@ yolo detect train model=yolov8n.pt data=dataset.yaml epochs=50 imgsz=640
 
 ---
 
-## 📈 Melihat Hasil Training
-
-Setelah training selesai:
-- Hasil disimpan di: `runs/train/custom_yolo/`
-- Model terbaik: `weights/best.pt`
-- Grafik performa: `results.png`
-
----
-
-
 
 ## 🔗 Referensi
 
